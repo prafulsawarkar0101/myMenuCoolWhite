@@ -107,12 +107,12 @@ margin-right: 0.5rem;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
-background-color: rgba(245, 245, 245, 0.582);
+background-color: rgba(245, 245, 245, 0.432);
 border: 1px solid rgba(128, 128, 128, 0.247);
 margin: 1rem;
 padding: 0.6rem;
 border-radius: 1rem;
-/* box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5) */
+
 }
 .topB{
 display: flex;
